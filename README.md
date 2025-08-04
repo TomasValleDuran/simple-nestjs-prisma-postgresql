@@ -39,8 +39,8 @@ This template is designed to:
 3. **Configure environment:**
    ```bash
    # Create .env file
-   DATABASE_URL="postgresql://username:password@localhost:5432/nestjs_prisma_db?schema=public"
-   PORT=3000
+   DATABASE_URL="postgresql://username:password@localhost:5435/nestjs_prisma_db?schema=public"
+   PORT=3005
    ```
 
 4. **Initialize database:**
